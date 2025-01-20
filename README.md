@@ -22,4 +22,4 @@ Visualize time series data using a line chart, bar chart, and box plots. You wil
 5. **Sea Level Predictor**
 Analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
 - Input: epa-sea-level.csv
-- Output: 
+- Output: scatter_plot.png, sea_level_plot.png
